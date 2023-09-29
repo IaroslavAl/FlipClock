@@ -11,6 +11,8 @@
 		A3D1E10F2AC687A10054D846 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D1E10E2AC687A10054D846 /* ContentView.swift */; };
 		A3D1E1112AC687A30054D846 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3D1E1102AC687A30054D846 /* Assets.xcassets */; };
 		A3D1E1142AC687A30054D846 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3D1E1132AC687A30054D846 /* Preview Assets.xcassets */; };
+		A3D1E11B2AC6881B0054D846 /* Flip.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D1E11A2AC6881B0054D846 /* Flip.swift */; };
+		A3D1E11D2AC6884A0054D846 /* FlipClock.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D1E11C2AC6884A0054D846 /* FlipClock.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		A3D1E10E2AC687A10054D846 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A3D1E1102AC687A30054D846 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3D1E1132AC687A30054D846 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A3D1E11A2AC6881B0054D846 /* Flip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flip.swift; sourceTree = "<group>"; };
+		A3D1E11C2AC6884A0054D846 /* FlipClock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipClock.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				A3D1E10C2AC687A10054D846 /* FlipClockApp.swift */,
 				A3D1E10E2AC687A10054D846 /* ContentView.swift */,
+				A3D1E11A2AC6881B0054D846 /* Flip.swift */,
+				A3D1E11C2AC6884A0054D846 /* FlipClock.swift */,
 				A3D1E1102AC687A30054D846 /* Assets.xcassets */,
 				A3D1E1122AC687A30054D846 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3D1E10F2AC687A10054D846 /* ContentView.swift in Sources */,
+				A3D1E11D2AC6884A0054D846 /* FlipClock.swift in Sources */,
+				A3D1E11B2AC6881B0054D846 /* Flip.swift in Sources */,
 				A3D1E10D2AC687A10054D846 /* FlipClockApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
